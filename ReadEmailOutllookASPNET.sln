@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worker.ReadEmailOutllookASPNET", "Worker.ReadEmailOutllookASPNET\Worker.ReadEmailOutllookASPNET.csproj", "{D811F745-2D72-405E-A297-FF9AA4450C1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D811F745-2D72-405E-A297-FF9AA4450C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D811F745-2D72-405E-A297-FF9AA4450C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D811F745-2D72-405E-A297-FF9AA4450C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D811F745-2D72-405E-A297-FF9AA4450C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B43D4C76-7DB1-4DF6-9F3C-2CD0C1670A73}
+	EndGlobalSection
+EndGlobal
